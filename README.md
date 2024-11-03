@@ -1,13 +1,8 @@
 <p align="center">
-  
-![azure-banner](https://github.com/user-attachments/assets/26974cbc-80c8-4d97-a2e4-9bdc6ac7387d)
-
+<img width="40%"  alt="Azure logo" src="https://github.com/user-attachments/assets/a12ee0f7-4e4f-423b-b9d9-11d529966ec6">
 </p>
 <h1>Create and Connect Azure Virtual Machines</h1>
 In this tutorial, we will create and connect virtual machines in both Windows and MacOS opereting systems.
-
-
-
 
 <h2>Environments and Technologies Used</h2>
 
