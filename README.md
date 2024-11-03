@@ -13,7 +13,6 @@ In this tutorial, we will create and connect virtual machines in both Windows an
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
 - MacOS
 
 
